@@ -1,0 +1,32 @@
+.body{
+        color: #e1f5fe;
+    text-align: center;
+    padding-top: 10em;
+    font-size: 21px;
+    
+    
+}
+#intro{
+    text-align: center;
+}
+.buttons{
+    padding-left: 46%;
+    padding-top: 2%;
+}
+body {
+    
+  background-image: url('images.jpeg');
+  background-size: 120em;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.body2{
+ margin-left: -86%;
+    margin-top: -134%;
+
+}
+.clickme{
+        padding-top: 16%;
+}
